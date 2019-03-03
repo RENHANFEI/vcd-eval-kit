@@ -1,6 +1,6 @@
 # VCD Eval Kit
 
-This is an image quality assessment experiment for Vision Correcting Displays.
+This is an image quality assessment experiment for <b><i>Vision Correcting Displays</i></b>.
 
 1. Coded with Python3, not sure if it can work well with Python2
 2. Install required package: `pip install Image`
